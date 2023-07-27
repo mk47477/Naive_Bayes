@@ -1,2 +1,1 @@
-# python
-Python files
+# Naive_Bayes
